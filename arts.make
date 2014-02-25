@@ -9,7 +9,7 @@ projects[drupal][version] = "7.26"
 ; and url is the url of the download.
 projects[acquia][download][type] = "get"
 projects[acquia][download][url] = "http://www.acquia.com/downloads/3164156/full/tar.gz"
-projects[acquia][type] = "module"
+projects[acquia][type] = "core"
 
 projects[adaptive_image][version] = "1.4"
 
