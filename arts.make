@@ -2,7 +2,7 @@
 ; core = 7.x
 
 api = 2
- projects[drupal][version] = "7.26"
+projects[drupal][version] = "7.26"
 
 ; Modules
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
